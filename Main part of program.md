@@ -1,6 +1,3 @@
-Here's a short and simple explanation of each part of this code snippet:
-
-```python
 sample_outputs = model.generate(
     **model_inputs,
     max_new_tokens=max_words,
