@@ -13,7 +13,8 @@
    ```
 
 3. **Load Tokenizer and Model**:
-   - The code loads a pre-trained GPT-2 tokenizer and model from the Hugging Face library.
+   - The code loads a pre-trained GPT-2 tokenizer.
+   - Tokenizing the input prompt transforms the raw text into a structured format that the model can process. It involves splitting the text into tokens, mapping these tokens to numerical IDs, adding any necessary special tokens, and converting the result into tensors suitable for model input. This step is crucial for the model to understand and generate relevant responses based on the input text.
 
    ```python
    tokenizer = AutoTokenizer.from_pretrained("gpt2")
