@@ -1,7 +1,5 @@
 # PRODIGY_GA_01
 
-Here's a short and simple explanation of the code:
-
 ### Step-by-Step Explanation
 
 1. **Import Libraries**:
