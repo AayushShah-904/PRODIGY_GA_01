@@ -82,7 +82,3 @@
    ```python
    print(result)
    ```
-
-### Summary
-
-This code takes a user-provided text prompt and generates a specified number of new text sequences based on that prompt using a pre-trained GPT-2 model. It allows for customization of the generation process through various parameters and ensures the output is coherent and contextually relevant.
